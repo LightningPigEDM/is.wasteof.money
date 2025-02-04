@@ -35,5 +35,16 @@ const items  = [
     {name: 'microtransactions in mobile games', isWaste: true},
     {name: 'minecraft 3ds', isWaste: true},
     {name: 'drugs', isWaste: 'custom', custom: 'depends', explanation: 'im not qualified to tell this to you speak to your doctor or something'}, 
-    {name: 'life', isWaste: 'custom', custom: 'depends', explanation: 'If you mean your life, totally, but life in general ... well, I guess, living stuff created money and also ways to waste it, so ... kinda ...'}
+    {name: 'life', isWaste: 'custom', custom: 'depends', explanation: 'If you mean your life, totally, but life in general ... well, I guess, living stuff created money and also ways to waste it, so ... kinda ...'},
+    {name: 'geometry dash', isWaste: false},
+    {name: 'trees', isWaste: false},
+    {name: 'cheese', isWaste: false},
+    {name: 'existence', isWaste: false, explanation: 'existence is the most free thing possible you silly'},
+    {name: 'death', isWaste: false, explanation: '...unless you are hiring an assassin, and in that case it depends'},
+    {name: 'dubstep', isWaste: 'custom', custom: 'depends', explanation: 'I mean if you like dubstep, buying dubstep is not a waste of money but if you listen to mostly Taylor Swift it probably is a waste of money'},
+    {name: 'Ableton Live 12 Suite', isWaste: true, explanation: 'just get bitwig bud don\'t waste your life savings on a DAW that can\'t even run all plugin formats'},
+    {name: 'people', isWaste: 'custom', custom: '...WHAT??', explanation: 'YOU CAN\'T BUY PEOPLE YOU MONSTER I THOUGHT WE GOT RID OF SLAVERY'},
+    {name: 'cigarettes', isWaste: true},
+    {name: 'cats', isWaste: false}
+    
 ];
